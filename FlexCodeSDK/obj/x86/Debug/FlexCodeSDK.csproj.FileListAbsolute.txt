@@ -1,0 +1,60 @@
+C:\Users\Hendry\documents\visual studio 2010\Projects\FlexCodeSDK\FlexCodeSDK\obj\x86\Debug\Interop.FlexCodeSDK.dll
+C:\Users\Hendry\documents\visual studio 2010\Projects\FlexCodeSDK\FlexCodeSDK\obj\x86\Debug\FlexCodeSDK.csproj.ResolveComReference.cache
+C:\Users\Hendry\documents\visual studio 2010\Projects\FlexCodeSDK\FlexCodeSDK\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Hendry\documents\visual studio 2010\Projects\FlexCodeSDK\FlexCodeSDK\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Hendry\documents\visual studio 2010\Projects\FlexCodeSDK\FlexCodeSDK\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Hendry\documents\visual studio 2010\Projects\FlexCodeSDK\FlexCodeSDK\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Hendry\documents\visual studio 2010\Projects\FlexCodeSDK\FlexCodeSDK\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Hendry\documents\visual studio 2010\Projects\FlexCodeSDK\FlexCodeSDK\bin\Debug\FlexCodeSDK.exe
+C:\Users\Hendry\documents\visual studio 2010\Projects\FlexCodeSDK\FlexCodeSDK\bin\Debug\FlexCodeSDK.pdb
+C:\Users\Hendry\documents\visual studio 2010\Projects\FlexCodeSDK\FlexCodeSDK\obj\x86\Debug\FlexCodeSDK.exe
+C:\Users\Hendry\documents\visual studio 2010\Projects\FlexCodeSDK\FlexCodeSDK\obj\x86\Debug\FlexCodeSDK.pdb
+C:\Users\Hendry\Documents\Visual Studio 2010\Projects\FlexCodeSDK\FlexCodeSDK\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Hendry\Documents\Visual Studio 2010\Projects\FlexCodeSDK\FlexCodeSDK\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\Hendry\Google Drive\Project\Product\FlexCodeSDK Indomaret 2\FlexCodeSDK dot Com Samples\FlexCodeSDK - VisualC# - MySQL\FlexCodeSDK\FlexCodeSDK\obj\x86\Debug\FlexCodeSDK.csproj.ResolveComReference.cache
+C:\Users\Hendry\Google Drive\Project\Product\FlexCodeSDK Indomaret 2\FlexCodeSDK dot Com Samples\FlexCodeSDK - VisualC# - MySQL\FlexCodeSDK\FlexCodeSDK\obj\x86\Debug\FlexCodeSDK.exe
+C:\Users\Hendry\Google Drive\Project\Product\FlexCodeSDK Indomaret 2\FlexCodeSDK dot Com Samples\FlexCodeSDK - VisualC# - MySQL\FlexCodeSDK\FlexCodeSDK\obj\x86\Debug\FlexCodeSDK.pdb
+C:\Users\Hendry\Google Drive\Project\Product\FlexCodeSDK Indomaret 2\FlexCodeSDK dot Com Samples\FlexCodeSDK - VisualC# - MySQL\FlexCodeSDK\FlexCodeSDK\obj\x86\Debug\FlexCodeSDK.csprojResolveAssemblyReference.cache
+C:\Users\Hendry\Google Drive\Project\Product\FlexCodeSDK Indomaret 2\FlexCodeSDK dot Com Samples\FlexCodeSDK - VisualC# - MySQL\FlexCodeSDK\FlexCodeSDK\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Hendry\Google Drive\Project\Product\FlexCodeSDK Indomaret 2\FlexCodeSDK dot Com Samples\FlexCodeSDK - VisualC# - MySQL\FlexCodeSDK\FlexCodeSDK\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Hendry\Google Drive\Project\Product\FlexCodeSDK Indomaret 2\FlexCodeSDK dot Com Samples\FlexCodeSDK - VisualC# - MySQL\FlexCodeSDK\FlexCodeSDK\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\Hendry\Google Drive\Project\Product\FlexCodeSDK Indomaret 2\FlexCodeSDK dot Com Samples\FlexCodeSDK - VisualC# - MySQL\FlexCodeSDK\FlexCodeSDK\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Hendry\Google Drive\Project\Product\FlexCodeSDK Indomaret 2\FlexCodeSDK dot Com Samples\FlexCodeSDK - VisualC# - MySQL\FlexCodeSDK\FlexCodeSDK\obj\x86\Debug\FlexCodeSDK.csproj.GenerateResource.Cache
+C:\Users\Hendry\Google Drive\Project\Product\FlexCodeSDK 2015\Web Samples\FlexCodeSDK - VisualC# - MySQL\FlexCodeSDK\FlexCodeSDK\obj\x86\Debug\FlexCodeSDK.csproj.ResolveComReference.cache
+C:\Users\Hendry\Google Drive\Project\Product\FlexCodeSDK 2015\Web Samples\FlexCodeSDK - VisualC# - MySQL\FlexCodeSDK\FlexCodeSDK\obj\x86\Debug\FlexCodeSDK.exe
+C:\Users\Hendry\Google Drive\Project\Product\FlexCodeSDK 2015\Web Samples\FlexCodeSDK - VisualC# - MySQL\FlexCodeSDK\FlexCodeSDK\obj\x86\Debug\FlexCodeSDK.pdb
+C:\Users\Hendry\Google Drive\Project\Product\FlexCodeSDK 2015\Web Samples\FlexCodeSDK - VisualC# - MySQL\FlexCodeSDK\FlexCodeSDK\bin\Debug\FlexCodeSDK.exe
+C:\Users\Hendry\Google Drive\Project\Product\FlexCodeSDK 2015\Web Samples\FlexCodeSDK - VisualC# - MySQL\FlexCodeSDK\FlexCodeSDK\bin\Debug\FlexCodeSDK.pdb
+C:\Users\Hendry\Google Drive\Project\Product\FlexCodeSDK 2015\Web Samples\FlexCodeSDK - VisualC# - MySQL\FlexCodeSDK\FlexCodeSDK\obj\x86\Debug\FlexCodeSDK.csprojResolveAssemblyReference.cache
+C:\Users\Hendry\Google Drive\Project\Product\FlexCodeSDK 2015\Web Samples\FlexCodeSDK - VisualC# - MySQL\FlexCodeSDK\FlexCodeSDK\obj\x86\Debug\Interop.FlexCodeSDK.dll
+C:\Users\Hendry\Google Drive\Project\Product\FlexCodeSDK 2015\Web Samples\FlexCodeSDK - VisualC# - MySQL\FlexCodeSDK\FlexCodeSDK\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Hendry\Google Drive\Project\Product\FlexCodeSDK 2015\Web Samples\FlexCodeSDK - VisualC# - MySQL\FlexCodeSDK\FlexCodeSDK\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Hendry\Google Drive\Project\Product\FlexCodeSDK 2015\Web Samples\FlexCodeSDK - VisualC# - MySQL\FlexCodeSDK\FlexCodeSDK\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\Hendry\Google Drive\Project\Product\FlexCodeSDK 2015\Web Samples\FlexCodeSDK - VisualC# - MySQL\FlexCodeSDK\FlexCodeSDK\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Hendry\Google Drive\Project\Product\FlexCodeSDK 2015\Web Samples\FlexCodeSDK - VisualC# - MySQL\FlexCodeSDK\FlexCodeSDK\obj\x86\Debug\FlexCodeSDK.csproj.GenerateResource.Cache
+C:\Users\Hendry\Google Drive\Project\Product\FlexCodeSDK 2015\Web Samples\FlexCodeSDK - VisualCSharp - MySQL\FlexCodeSDK\FlexCodeSDK\obj\x86\Debug\Interop.FlexCodeSDK.dll
+C:\Users\Hendry\Google Drive\Project\Product\FlexCodeSDK 2015\Web Samples\FlexCodeSDK - VisualCSharp - MySQL\FlexCodeSDK\FlexCodeSDK\obj\x86\Debug\FlexCodeSDK.csproj.ResolveComReference.cache
+C:\Users\Hendry\Google Drive\Project\Product\FlexCodeSDK 2015\Web Samples\FlexCodeSDK - VisualCSharp - MySQL\FlexCodeSDK\FlexCodeSDK\obj\x86\Debug\FlexCodeSDK.exe
+C:\Users\Hendry\Google Drive\Project\Product\FlexCodeSDK 2015\Web Samples\FlexCodeSDK - VisualCSharp - MySQL\FlexCodeSDK\FlexCodeSDK\obj\x86\Debug\FlexCodeSDK.pdb
+C:\Users\Hendry\Google Drive\Project\Product\FlexCodeSDK 2015\Web Samples\FlexCodeSDK - VisualCSharp - MySQL\FlexCodeSDK\FlexCodeSDK\obj\x86\Debug\FlexCodeSDK.csprojResolveAssemblyReference.cache
+C:\Users\Hendry\Google Drive\Project\Product\FlexCodeSDK 2015\Web Samples\FlexCodeSDK - VisualCSharp - MySQL\FlexCodeSDK\FlexCodeSDK\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Hendry\Google Drive\Project\Product\FlexCodeSDK 2015\Web Samples\FlexCodeSDK - VisualCSharp - MySQL\FlexCodeSDK\FlexCodeSDK\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Hendry\Google Drive\Project\Product\FlexCodeSDK 2015\Web Samples\FlexCodeSDK - VisualCSharp - MySQL\FlexCodeSDK\FlexCodeSDK\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\Hendry\Google Drive\Project\Product\FlexCodeSDK 2015\Web Samples\FlexCodeSDK - VisualCSharp - MySQL\FlexCodeSDK\FlexCodeSDK\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Hendry\Google Drive\Project\Product\FlexCodeSDK 2015\Web Samples\FlexCodeSDK - VisualCSharp - MySQL\FlexCodeSDK\FlexCodeSDK\obj\x86\Debug\FlexCodeSDK.csproj.GenerateResource.Cache
+C:\Users\Hendry\Google Drive\Project\Product\FlexCodeSDK 2015\Web Samples\FlexCodeSDK - VisualCSharp - MySQL\FlexCodeSDK\FlexCodeSDK\bin\Debug\FlexCodeSDK.exe
+C:\Users\Hendry\Google Drive\Project\Product\FlexCodeSDK 2015\Web Samples\FlexCodeSDK - VisualCSharp - MySQL\FlexCodeSDK\FlexCodeSDK\bin\Debug\FlexCodeSDK.pdb
+C:\Documents and Settings\All Users\Documentos\Control Acceso\FlexCodeSDK - VisualCSharp - MySQL\FlexCodeSDK\FlexCodeSDK\bin\Debug\FlexCodeSDK.exe
+C:\Documents and Settings\All Users\Documentos\Control Acceso\FlexCodeSDK - VisualCSharp - MySQL\FlexCodeSDK\FlexCodeSDK\bin\Debug\FlexCodeSDK.pdb
+C:\Documents and Settings\All Users\Documentos\Control Acceso\FlexCodeSDK - VisualCSharp - MySQL\FlexCodeSDK\FlexCodeSDK\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\All Users\Documentos\Control Acceso\FlexCodeSDK - VisualCSharp - MySQL\FlexCodeSDK\FlexCodeSDK\obj\x86\Debug\Interop.FlexCodeSDK.dll
+C:\Documents and Settings\All Users\Documentos\Control Acceso\FlexCodeSDK - VisualCSharp - MySQL\FlexCodeSDK\FlexCodeSDK\obj\x86\Debug\Interop.IasHelperLib.dll
+C:\Documents and Settings\All Users\Documentos\Control Acceso\FlexCodeSDK - VisualCSharp - MySQL\FlexCodeSDK\FlexCodeSDK\obj\x86\Debug\FlexCodeSDK.csproj.ResolveComReference.cache
+C:\Documents and Settings\All Users\Documentos\Control Acceso\FlexCodeSDK - VisualCSharp - MySQL\FlexCodeSDK\FlexCodeSDK\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Documents and Settings\All Users\Documentos\Control Acceso\FlexCodeSDK - VisualCSharp - MySQL\FlexCodeSDK\FlexCodeSDK\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Documents and Settings\All Users\Documentos\Control Acceso\FlexCodeSDK - VisualCSharp - MySQL\FlexCodeSDK\FlexCodeSDK\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+C:\Documents and Settings\All Users\Documentos\Control Acceso\FlexCodeSDK - VisualCSharp - MySQL\FlexCodeSDK\FlexCodeSDK\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\All Users\Documentos\Control Acceso\FlexCodeSDK - VisualCSharp - MySQL\FlexCodeSDK\FlexCodeSDK\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\All Users\Documentos\Control Acceso\FlexCodeSDK - VisualCSharp - MySQL\FlexCodeSDK\FlexCodeSDK\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\All Users\Documentos\Control Acceso\FlexCodeSDK - VisualCSharp - MySQL\FlexCodeSDK\FlexCodeSDK\obj\x86\Debug\FlexCodeSDK.exe
+C:\Documents and Settings\All Users\Documentos\Control Acceso\FlexCodeSDK - VisualCSharp - MySQL\FlexCodeSDK\FlexCodeSDK\obj\x86\Debug\FlexCodeSDK.pdb
