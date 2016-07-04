@@ -33,8 +33,7 @@ namespace WindowsFormsApplication1
             ver.FPVerificationStatus += new __FinFPVer_FPVerificationStatusEventHandler(ver_FPVerificationStatus);
            
             //2. Input the activation code
-            ver.AddDeviceInfo("C700F001339", "7901D3C13E34109", "VPFAAB943C33362467D451A0");
-
+            ver.AddDeviceInfo("F500E002697", "4EA84B1BCAC240B", "REKA0E0C461B7A0D2649CVKQ");
             //3. Define fingerprint image
             ver.PictureSampleHeight = (short)(pictureBox1.Height * 15); //FlexCodeSDK use Twips. 1 pixel = 15 twips
             ver.PictureSampleWidth = (short)(pictureBox1.Width * 15); //FlexCodeSDK use Twips. 1 pixel = 15 twips
@@ -42,7 +41,7 @@ namespace WindowsFormsApplication1
             ver.PictureSamplePath = imgPath;
            
             //4. Load templates from database to FlexCodeSDK
-            string cs = "server=127.0.0.1;userid=root;password=;database=FlexCodeSDK";
+            string cs = "server=127.0.0.1;userid=ControlAcceso;password=c0ntr0l4cc3s0;database=ControlAcceso";
             conn = new MySqlConnection(cs);
             conn.Open();
             string sql = "SELECT EmpID, EmpTemplate FROM Emp_T";
