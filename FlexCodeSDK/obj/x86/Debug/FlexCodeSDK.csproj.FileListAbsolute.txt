@@ -1,0 +1,12 @@
+C:\Documents and Settings\billo\Escritorio\ControlAcceso\control-acceso-reg\FlexCodeSDK\obj\x86\Debug\Interop.FlexCodeSDK.dll
+C:\Documents and Settings\billo\Escritorio\ControlAcceso\control-acceso-reg\FlexCodeSDK\obj\x86\Debug\Interop.IasHelperLib.dll
+C:\Documents and Settings\billo\Escritorio\ControlAcceso\control-acceso-reg\FlexCodeSDK\obj\x86\Debug\FlexCodeSDK.csproj.ResolveComReference.cache
+C:\Documents and Settings\billo\Escritorio\ControlAcceso\control-acceso-reg\FlexCodeSDK\bin\Debug\FlexCodeSDK.exe
+C:\Documents and Settings\billo\Escritorio\ControlAcceso\control-acceso-reg\FlexCodeSDK\bin\Debug\FlexCodeSDK.pdb
+C:\Documents and Settings\billo\Escritorio\ControlAcceso\control-acceso-reg\FlexCodeSDK\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\billo\Escritorio\ControlAcceso\control-acceso-reg\FlexCodeSDK\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Documents and Settings\billo\Escritorio\ControlAcceso\control-acceso-reg\FlexCodeSDK\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\billo\Escritorio\ControlAcceso\control-acceso-reg\FlexCodeSDK\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\billo\Escritorio\ControlAcceso\control-acceso-reg\FlexCodeSDK\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\billo\Escritorio\ControlAcceso\control-acceso-reg\FlexCodeSDK\obj\x86\Debug\FlexCodeSDK.exe
+C:\Documents and Settings\billo\Escritorio\ControlAcceso\control-acceso-reg\FlexCodeSDK\obj\x86\Debug\FlexCodeSDK.pdb
