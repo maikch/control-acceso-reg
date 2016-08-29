@@ -56,8 +56,7 @@ namespace WindowsFormsApplication1
                 //Insert template to MySQL database
                 MySqlCommand cmd = new MySqlCommand();
                 cmd.Connection = conn;
-                cmd.CommandText = "INSERT INTO Emp_T(EmpID, EmpName, EmpTemplate) VALUES('" + textBox1.Text + "','" + textBox2.Text + "','" + template + "')";
-                cmd.ExecuteNonQuery();
+                Console.Out.WriteLine(template);
                 this.Close();
             }
         }
