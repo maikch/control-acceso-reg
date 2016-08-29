@@ -58,14 +58,7 @@ namespace WindowsFormsApplication1
                 cmd.Connection = conn;
                 cmd.CommandText = "INSERT INTO Emp_T(EmpID, EmpName, EmpTemplate) VALUES('" + textBox1.Text + "','" + textBox2.Text + "','" + template + "')";
                 cmd.ExecuteNonQuery();
-                
-                MessageBox.Show("Success!");
-                textBox1.Text = "";
-                textBox2.Text = "";
-                template = "";
-                label1.Text = "Samples Needed : ";
-                button1.Enabled = true;
-                button2.Enabled = false;
+                this.Close();
             }
         }
 
