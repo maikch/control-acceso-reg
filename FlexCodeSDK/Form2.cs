@@ -16,7 +16,6 @@ namespace WindowsFormsApplication1
     {
         FlexCodeSDK.FinFPReg reg;
         String template = "";
-        MySqlConnection conn = null;
         string imgPath = "";
             
         public Form2()
@@ -26,11 +25,6 @@ namespace WindowsFormsApplication1
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            // Set MySQL database connection
-            string cs = "server=127.0.0.1;userid=ControlAcceso;password=c0ntr0l4cc3s0;database=ControlAcceso";
-            conn = new MySqlConnection(cs);
-            conn.Open();
-
             //Initialize FlexCodeSDK for Registration
             //1. Initialize Event Handler
             reg = new FlexCodeSDK.FinFPReg();
@@ -53,11 +47,8 @@ namespace WindowsFormsApplication1
         {
             if (Status== RegistrationStatus.r_OK) 
             {
-                //Insert template to MySQL database
-                MySqlCommand cmd = new MySqlCommand();
-                cmd.Connection = conn;
                 Console.Out.WriteLine(template);
-                this.Close();
+                Program.ExitApplication(0);
             }
         }
 

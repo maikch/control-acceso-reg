@@ -10,12 +10,21 @@ namespace WindowsFormsApplication1
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
+        static int exitCode = 1;
+
         [STAThread]
-        static void Main()
+        static int Main()
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form2());
+            return exitCode;
+        }
+
+        public static void ExitApplication(int exitCode)
+        {
+            Program.exitCode = exitCode;
+            Application.Exit();
         }
     }
 }
