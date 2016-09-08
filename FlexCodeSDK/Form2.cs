@@ -18,9 +18,13 @@ namespace WindowsFormsApplication1
         String template = "";
         string imgPath = "";
             
-        public Form2()
+        public Form2(string rut, string name)
         {
             InitializeComponent();
+            textBox1.ReadOnly = true;
+            textBox2.ReadOnly = true;
+            textBox1.Text = rut;
+            textBox2.Text = name;
         }
 
         private void Form1_Load(object sender, EventArgs e)
@@ -78,23 +82,16 @@ namespace WindowsFormsApplication1
 
         private void button1_Click(object sender, EventArgs e)
         {
-            if (textBox1.Text == "" || textBox1.Text == "")
-            {
-               MessageBox.Show("Please enter ID and Name!");
-            }
-            else
-            {
-                button1.Enabled = false;
-                button2.Enabled = true;
-                reg.FPRegistrationStart("MySecretKey" + textBox1.Text);
-            }
+           
+            button1.Enabled = false;
+            button2.Enabled = true;
+            reg.FPRegistrationStart("MySecretKey" + textBox1.Text);
+            
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
             MessageBox.Show("Canceled!");
-            textBox1.Text = "";
-            textBox2.Text = "";
             template = "";
             label1.Text = "Samples Needed : ";
             button1.Enabled = true;

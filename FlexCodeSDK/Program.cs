@@ -13,11 +13,13 @@ namespace WindowsFormsApplication1
         static int exitCode = 1;
 
         [STAThread]
-        static int Main()
+        static int Main(string[] args)
         {
+            String rut = args[0];
+            String name = args[1];
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form2());
+            Application.Run(new Form2(rut, name));
             return exitCode;
         }
 
