@@ -25,6 +25,9 @@ namespace WindowsFormsApplication1
             textBox2.ReadOnly = true;
             textBox1.Text = rut;
             textBox2.Text = name;
+            this.WindowState = FormWindowState.Minimized;
+            this.Show();
+            this.WindowState = FormWindowState.Normal;
         }
 
         private void Form1_Load(object sender, EventArgs e)
